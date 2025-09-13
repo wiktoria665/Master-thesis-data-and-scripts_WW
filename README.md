@@ -8,17 +8,16 @@ competition tested for strains YPW2879 and YPW2943 (lower fitness strains), pres
 * #### **_experiment_strains fractions_**
  **the main experiment data**  
 count of singlet green (YPWCOMP, higher fitness) and singlet yellow (YPW2879 and YPW2943, lower fitness) cells, fractions of green cells and yellow cells, in different time points of experiment  
-* **_experiment_gating_part1-3_**  
+* #### **_experiment_gating_part1-3_**  
  **the main experiment data**  
 gates for separating green (YPWCOMP, higher fitness) and yellow (YPW2879 and YPW2943, lower fitness) singlets
-
-* **_gating of flow cytometer results_**
+* #### **_gating of flow cytometer results_**
  **data from the beginning of the main experiment**
 gating of singlets from strains YPW2879 / YPW2943 and the lower fitness competitor
-* **_test of the sorter_**
+* #### **_test of the sorter_**
  **data from the beginning of the main experiment**
 photos of culture plates of strains: YPWCOMP, YPW2879 and YPW2943; obtained after sorting single cell in each well, test of sorter accuracy
-* **_competition results_**
+* #### **_competition results_**
  **data from the beginning of the main experiment**
 obtaining fitness values for strains YPW2879 and YPW2943, fitness was calculated from the three initial results, since after that some wells were lacking the competitor (with lower fitness)
-* **_competition plots_**
+* #### **_competition plots_**

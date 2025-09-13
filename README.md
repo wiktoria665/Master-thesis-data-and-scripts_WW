@@ -12,12 +12,17 @@ count of singlet green (YPWCOMP, higher fitness) and singlet yellow (YPW2879 and
  **the main experiment data**  
 gates for separating green (YPWCOMP, higher fitness) and yellow (YPW2879 and YPW2943, lower fitness) singlets
 * #### **_gating of flow cytometer results_**
- **data from the beginning of the main experiment**
-gating of singlets from strains YPW2879 / YPW2943 and the lower fitness competitor
+ **data from the beginning of the main experiment**  
+ gating of singlets from strains YPW2879 / YPW2943 and the lower fitness competitor
 * #### **_test of the sorter_**
- **data from the beginning of the main experiment**
-photos of culture plates of strains: YPWCOMP, YPW2879 and YPW2943; obtained after sorting single cell in each well, test of sorter accuracy
+ **data from the beginning of the main experiment**  
+ photos of culture plates of strains: YPWCOMP, YPW2879 and YPW2943; obtained after sorting single cell in each well, test of sorter accuracy
 * #### **_competition results_**
- **data from the beginning of the main experiment**
-obtaining fitness values for strains YPW2879 and YPW2943, fitness was calculated from the three initial results, since after that some wells were lacking the competitor (with lower fitness)
-* #### **_competition plots_**
+ **data from the beginning of the main experiment**  
+ obtaining fitness values for strains YPW2879 and YPW2943, fitness was calculated from the three initial results, since after that some wells were lacking the competitor (with lower fitness)
+* #### **_fitness boxplot_**
+**data from the beginning of the main experiment**  
+fitness plotted for YPW2879 and YPW2943 on a graph  
+* #### **_fitness count before the experiment_**
+**data from before the main experiment**  
+calculation of fitness of eleven tested strains, which were considered for the main experiment

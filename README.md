@@ -3,4 +3,8 @@
 
 ### Table of contents:  
 * #### **_competition plots_**
-**data from the beginning of the main experiment** competition tested for strains YPW2879 and YPW2943 (worse fitness strains), presented as Log2 of yellow (worse fitness` strains) to green (strain with higher fitness) ratio
+**data from the beginning of the main experiment**  
+competition tested for strains YPW2879 and YPW2943 (worse fitness strains), presented as Log2 of yellow (worse fitness strains) to green (higher fitness strain) ratio
+* #### **_experiment_strains fractions_**
+**main experiment data**  
+count of singlet green (YPWCOMP, higher fitness) and singlet yellow (YPW2879 and YPW2943, lower fitness) cells, fractions of green cells and yellow cells

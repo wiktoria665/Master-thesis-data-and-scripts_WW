@@ -25,4 +25,10 @@ gates for separating green (YPWCOMP, higher fitness) and yellow (YPW2879 and YPW
 fitness plotted for YPW2879 and YPW2943 on a graph  
 * #### **_fitness count before the experiment_**
 **data from before the main experiment**  
-calculation of fitness of eleven tested strains, which were considered for the main experiment
+calculation of fitness of eleven tested strains, which were considered for the main experiment  
+* #### **_script for fitness_**
+**data from the beginning of the main experiment**  
+script for calculating fitness for strains YPW2879 and YPW2943  
+* #### **_script for gating_**
+**the main experiment data**  
+script for automatic gate eliminating debris and singlets with fuorescence below 1200

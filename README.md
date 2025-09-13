@@ -11,6 +11,7 @@ count of singlet green (YPWCOMP, higher fitness) and singlet yellow (YPW2879 and
 * **_experiment_gating_part1-3_**  
  **the main experiment data**  
 gates for separating green (YPWCOMP, higher fitness) and yellow (YPW2879 and YPW2943, lower fitness) singlets
+
 * **_gating of flow cytometer results_**
  **data from the beginning of the main experiment**
 gating of singlets from strains YPW2879 / YPW2943 and the lower fitness competitor
